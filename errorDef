@@ -1,0 +1,34 @@
+relation 1 is not relation
+muldiv 2 is not * or /
+factor 3 is not (
+factor 4 is not )
+addsub 5 is not + or -
+complex 6 supposed to be begin
+complex 7 supposed to be end
+write 8 supposed to be write
+write 9 is not (
+write 10 is not )
+read 11 supposed to be read
+read 12 is not (
+read 13 is not )
+call 14 is not call
+while 15 is not while
+while 16 is not do
+condition 17 is not if
+condition 18 is not then
+assign 19 is not :=
+processHead 20 is not procedure
+processHead 21 is not ;
+processDes 22 is not ;
+varDes 23 is not var
+varDes 24 supposed to be ;
+identifier 25 is not a identifier
+number 26 is not a number
+constDef 27 is not =
+constDes 28 is not const
+constDes 29 supposed to be ;
+processDes 30 level overflow
+identifier 31 no such a variable
+identifier 32 no such a procedure
+identifier 33 identifier conflict
+assign/factor 34 identifier not found
